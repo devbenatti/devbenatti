@@ -7,7 +7,11 @@
 
 ##
 
-![Lucas Benatti GitHub stats](https://github-readme-stats.vercel.app/api?username=devbenatti&show_icons=true&theme=highcontrast)
+<div align="center">
+  <a href="https://github.com/devbenatti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbenatti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbenatti&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 #### Tecnologias que eu uso no meu dia
 
